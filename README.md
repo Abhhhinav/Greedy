@@ -1,1 +1,4 @@
 # Greedy
+A greedy algorithm is an approach for solving a problem by selecting the best option available at the moment. It doesn't worry whether the current best result will bring the overall optimal result.
+The algorithm never reverses the earlier decision even if the choice is wrong. It works in a top-down approach.
+This algorithm may not produce the best result for all the problems. It's because it always goes for the local best choice to produce the global best result.
